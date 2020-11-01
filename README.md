@@ -13,7 +13,7 @@ This Maven project uses the following dependencies:
 * selenium-java - Using Chrome Web driver
 * cucumber-java
 
-### Installation
+### Executing the tests
 
 * Clone the repository from git
 * Add the repo to your IDE
