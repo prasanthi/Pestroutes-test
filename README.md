@@ -4,16 +4,15 @@ The main goal of this application is to test the following functionalities:
   - Login into Pestroutes domain
   - Create a customer with first, last name and address
   - Validate the customer deatils in the overview tab
-### Tech
 
-This Maven project uses the following dependencies:
+### Dependencies
 
 * Junit
 * cucumber-junit
 * selenium-java - Using Chrome Web driver
 * cucumber-java
 
-### Executing the tests
+### Setup & Execution
 
 * Clone the repository from git
 * Add the repo to your IDE
